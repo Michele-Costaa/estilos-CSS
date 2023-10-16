@@ -1,0 +1,48 @@
+body {
+  background-color: aquamarine;
+}
+
+* {
+  margin: 0;
+}
+
+main {
+  width: 450px;
+  height: 300px;
+  border: solid slategrey;
+  background-color: cyan;
+}
+
+#container {
+  width: 200px;
+  height: 250px;
+  border: solid black;
+}
+
+.box1 {
+  width: 100px;
+  height: 50px;
+  background-color: darkcyan;
+}
+.box2 {
+  width: 100px;
+  height: 50px;
+  background-color: rgb(16, 155, 160);
+}
+.box3 {
+  width: 100px;
+  height: 50px;
+  background-color: #14ad94;
+}
+
+p {
+  color: lightgreen;
+}
+
+.peso {
+  color: green;
+}
+
+h2 {
+  font-size: 30px;
+}
